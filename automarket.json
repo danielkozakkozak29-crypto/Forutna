@@ -2,11 +2,11 @@
     "1.21.8":  {
                    "version":  "2.0.0",
                    "url":  "https://raw.githubusercontent.com/danielkozakkozak29-crypto/Forutna/main/automarket-1.21.8.jar",
-                   "sha256":  "317cf4a266e28f35794d3a35cc8088f0a44180e944b965e835fe9c3bdda83270"
+                   "sha256":  "4e99dff6ee695d9a636423d80945ce8a8b28fe2ca96f51dcc3c7fdfbc49831c3"
                },
     "1.21.4":  {
                    "version":  "2.0.0",
                    "url":  "https://raw.githubusercontent.com/danielkozakkozak29-crypto/Forutna/main/automarket-1.21.4.jar",
-                   "sha256":  "3a21e9aa71a478e5f90c4b43497ac393ab2f4b4c346d3d98fdf06d55531366d7"
+                   "sha256":  "89d0b9b7c44dd5f7903188fcc27140e88c438c53162f541fef9ce27f34236b4a"
                }
 }
